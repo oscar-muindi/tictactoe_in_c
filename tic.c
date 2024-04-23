@@ -2,10 +2,7 @@
 #include <ncursesw/curses.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <time.h>
-//#include <sys/types.h>
-//#include <sys/stat.h>
-//#include <fcntl.h>
+
 
 
 char square[10] = {'o', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
